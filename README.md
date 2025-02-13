@@ -1,6 +1,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
           
-<h1>Acauã Rangel Brazil</h1>
+<img src="banner.png" />
+<h1><b>Acauã Rangel Brazil</b></h1>
 
 <h2>Ferramentas e Tecnologias</h2>
 
@@ -19,11 +21,7 @@
     <img loading="lazy" src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" target="_blank"/>
     <img loading="lazy" src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" target="_blank"/>
     <img loading="lazy" src="https://img.shields.io/badge/hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" target="_blank"/>
-    <img loading="lazy" src="https://img.shields.io/badge/oracle-D50C2D?style=for-the-badge" target="_blank"/>
+    <img loading="lazy" src="https://img.shields.io/badge/oracle-ED1E24?style=for-the-badge" target="_blank"/>
 </div>
 
-<div>
-    <a href="https://github.com/Acaua-Rangel">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acaua-Rangel&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Acaua-Rangel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acaua-Rangel&layout=compact&langs_count=7&theme=dracula"/>
