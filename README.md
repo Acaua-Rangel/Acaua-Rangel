@@ -1,7 +1,4 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-          
-<h1><b>Acauã Rangel Brazil</b></h1>
 <img src="banner.png" />
 
 <h2>Ferramentas e Tecnologias</h2>
